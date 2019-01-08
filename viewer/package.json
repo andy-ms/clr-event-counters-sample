@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "viewer",
+  "version": "0",
+  "license": "ISC",
+  "dependencies": {
+    "smoothie": "^1.35.0"
+  }
+}
